@@ -36,5 +36,21 @@ It uses **Machine Learning (Logistic Regression)** to classify student performan
 
 ---
 
-## 📂 Project Structure
+## 📊 Dataset Description
+The dataset contains the following features:
+
+| Feature        | Description |
+|---------------|-----------|
+| StudyHours    | Hours studied per day |
+| Attendance    | Attendance percentage |
+| PreviousScore | Previous exam marks |
+| Result        | Low / Medium / High |
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Install Required Libraries
+```bash
+pip install pandas numpy scikit-learn
 
