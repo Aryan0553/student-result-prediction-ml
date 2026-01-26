@@ -50,6 +50,7 @@ The dataset contains the following features:
 
 ## ▶️ How to Run the Project
 
+
 ### 1️⃣ Install Required Libraries
 ```bash
 pip install pandas numpy scikit-learn
