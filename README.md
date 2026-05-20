@@ -54,3 +54,4 @@ The dataset contains the following features:
 ### 1️⃣ Install Required Libraries
 ```bash
 pip install pandas numpy scikit-learn
+pip install numpy as np 
